@@ -1,0 +1,52 @@
+.header-top {
+    background: #fff;
+}
+
+.header-top .right-inner {
+    font-size: 0;
+    margin: 0 -15px;
+    text-align: end;
+}
+
+.header-top .right-inner .register {
+    display: inline-block;
+    vertical-align: middle;
+    font-size: 14px;
+}
+
+.header-top .right-inner .signin {
+    display: inline-block;
+    vertical-align: middle;
+    font-size: 14px;
+}
+
+.header-top .right-inner .social-icon {
+    display: inline-block;
+    vertical-align: middle; 
+    font-size: 14px;
+}
+
+.header-top .right-inner .icon {
+    display: inline-block;
+    vertical-align: middle;
+    font-size: 14px;
+    padding: 0 15px;
+}
+
+.header-top .right-inner .text {
+    display: inline-block;
+    vertical-align: middle;
+    font-size: 14px;
+    padding: 0 15px;    
+}
+
+.header-top .right-inner .social-icon ul {
+    font-size: 0;
+}
+
+.header-top .right-inner .social-icon ul li {
+    display: inline-block;
+    vertical-align: middle;
+    font-size: 14px;
+    padding: 0 15px;
+}
